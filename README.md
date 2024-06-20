@@ -11,7 +11,7 @@ This project contains end-to-end tests using Playwright. Follow the instructions
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/IvelinPopov/NOTO-project.git
     cd your-repo-name
     ```
 
