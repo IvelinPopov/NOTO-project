@@ -11,21 +11,12 @@ This project contains end-to-end tests using Playwright. Follow the instructions
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/IvelinPopov/NOTO-project.git
     ```
 
 2. **Install dependencies**:
     ```sh
     npm install
-    # or
-    yarn install
-    ```
-
-3. **Install Playwright browsers**:
-    Playwright requires specific browser binaries. Install them using:
-    ```sh
-    npx playwright install
     ```
 
 ## Running Tests
