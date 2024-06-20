@@ -6,6 +6,6 @@ test.beforeEach(async ({ page }) => {
 });
 
 test('navigate to QA job posting page', async({page}) => {
-  const navigateTo = new HomePage(page);
-  await navigateTo.navigateToQAPostingPage()
+  const newPage = new HomePage(page);
+  await newPage.navigateToQAPostingPage()
 })
